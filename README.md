@@ -1,1 +1,1 @@
-# EM_test1
+This library contains lecture materials and lab exericses that are being used by students enrolled in GEOL 4397 Electromagnetic Methods for Exploration at University of Houston in the Fall semester of 2018.
